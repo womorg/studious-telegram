@@ -1,6 +1,6 @@
 {
   "name": "@womorg/studious-telegram",
-  "version": "11.19.283",
+  "version": "11.19.284",
   "description": "",
   "main": "index.js",
   "author": "womhla6s",
@@ -557,5 +557,5 @@
   "bugs": {
     "url": "https://github.com/womorg/studious-telegram/issues"
   },
-  "packageManager": "yarn@4.6.0"
+  "packageManager": "yarn@4.7.0"
 }
